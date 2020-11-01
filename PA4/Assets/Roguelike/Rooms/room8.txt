@@ -1,0 +1,13 @@
+xxxx---N---
+xxx/       \
+xx/         \
+x/           \
+|             |
+|             |
+W             E
+|             |
+|      LLL    |
+x\           /
+xx\         /
+xxx\       /
+xxxx---S---

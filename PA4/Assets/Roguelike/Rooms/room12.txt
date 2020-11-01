@@ -1,0 +1,11 @@
+--N--
+x\   \
+xx\   \
+xxx\L  \
+xxxx\   \
+xxxxx\   \
+xxxxxx\  L\
+xxxxxxx\   \
+xxxxxxxx\   \
+xxxxxxxxx\   \
+xxxxxxxxxx--S--
